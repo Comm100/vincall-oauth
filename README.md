@@ -25,7 +25,7 @@ The configuration items of the project are as follows and can be modified accord
       "Microsoft.Hosting.Lifetime": "Information"
     }
   },  
-  "Domain": "comm100dev.io"
+  "Domain": "vincall.net"
 }
 ```
 - ConnectionStrings: The connection string to Microsoft SQL server database.
