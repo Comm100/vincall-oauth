@@ -15,7 +15,7 @@ The configuration items of the project are as follows and can be modified accord
 ```json
 {
   "ConnectionStrings": {
-    "AuthDB": "Server=192.168.2.215;User=sa;Password=Aa00000000;Database=vincall"
+    "AuthDB": "Server=localhost;User=sa;Password=sa;Database=vincall"
   },
   "InitDB": "true",
   "Logging": {
